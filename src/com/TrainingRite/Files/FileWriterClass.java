@@ -10,7 +10,7 @@ import java.io.IOException;
 public class FileWriterClass {
 
 	public static void main(String[] args) {
-		// 1. Define the file (path) that we want to write to
+		// 1. Define the file (path) that we want to write
 		String filename = "C:\\Users\\owner\\Desktop\\SDET-June2017\\JavaTutorials\\Files\\TestOutput.txt";
 		String myMessage = "This will be placed inside the file.";
 		
