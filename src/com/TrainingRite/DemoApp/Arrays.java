@@ -2,6 +2,8 @@ package com.TrainingRite.DemoApp;
 
 import java.lang.reflect.Array;
 
+// This class practices with Arrays
+
 public class Arrays {
 
 	public static void main(String[] args) {
