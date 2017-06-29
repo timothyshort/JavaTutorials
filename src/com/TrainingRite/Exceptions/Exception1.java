@@ -4,8 +4,6 @@ public class Exception1 {
 
 	public static void main(String[] args) {
 		
-		// This class handles Arithmetic Exceptions
-		
 		int x = 5;
 		int y = 0;
 		
